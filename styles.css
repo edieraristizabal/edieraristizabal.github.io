@@ -52,6 +52,7 @@ h2{
     /* DEBUG:  */padding:30px;
     font-weight:bold;
     text-align:center;
+    font-size:20px;
 }
 
 .courier{
@@ -62,4 +63,12 @@ h2{
   text-align:center;
   color:white;
   background:black;
+}
+
+.name{
+  text-align:left;
+  color:black;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 550;
+  font-size:30px;
 }
