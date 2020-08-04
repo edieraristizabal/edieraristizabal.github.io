@@ -47,13 +47,19 @@ h2{
     border:1px solid black;
 }
 
-.container{
+.barra{
     background:white;
-    color:green;
-    padding:20px;
+    /* DEBUG:  */padding:30px;
     font-weight:bold;
+    text-align:center;
 }
 
 .courier{
-  font-family:'Courier New', Courier, monospace;
+  font-family:'Courier New', Courier, monospace; font-weight: 400;
+}
+
+.firma{
+  text-align:center;
+  color:white;
+  background:black;
 }
