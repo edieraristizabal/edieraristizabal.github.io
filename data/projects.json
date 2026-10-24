@@ -1,0 +1,96 @@
+{
+ "_comment": "Proyectos que aparecen en projects.html. status: ongoing | completed | proposal. Solo se publican proyectos aprobados por Edier.",
+ "projects": [
+  {
+   "id": "sunrise",
+   "acronym": "SUNRISE",
+   "status": "ongoing",
+   "years": "2026–",
+   "funder": "Horizon Europe (HORIZON-CL5-2025-06, Grant 101295874)",
+   "role": {"en": "Partner, Universidad Nacional de Colombia", "es": "Socio, Universidad Nacional de Colombia"},
+   "title": {
+    "en": "Extreme events in a warming, unequal world: linking drivers to impacts for improved attribution, forecasting and regional responses",
+    "es": "Eventos extremos en un mundo más cálido y desigual: de los detonantes a los impactos para mejorar la atribución, el pronóstico y la respuesta regional"
+   },
+   "desc": {
+    "en": "A 36-month research and innovation action that brings together 19 academic and non-academic partners from three continents to advance attribution science, impact assessment and operational forecasting of climate and weather extremes. UNAL contributes to the work stream on the assessment and attribution of impacts.",
+    "es": "Acción de investigación e innovación de 36 meses que reúne a 19 socios académicos y no académicos de tres continentes para avanzar en la ciencia de la atribución, la evaluación de impactos y el pronóstico operativo de eventos climáticos extremos. La UNAL participa en la línea de trabajo de evaluación y atribución de impactos."
+   },
+   "links": []
+  },
+  {
+   "id": "landcascades",
+   "acronym": "LAND-CASCADES",
+   "status": "ongoing",
+   "years": "2026–",
+   "funder": "INQUA, International Research Network (IRN)",
+   "role": {"en": "Co-leader, with Stella Moreiras (IANIGLA-CONICET, Argentina)", "es": "Colíder, con Stella Moreiras (IANIGLA-CONICET, Argentina)"},
+   "title": {
+    "en": "Landslide dynamics and cascading hazards in the Andes",
+    "es": "Dinámica de movimientos en masa y amenazas en cascada en los Andes"
+   },
+   "desc": {
+    "en": "An international network of researchers working on landslides and cascading hazards along the Andes. The first phase, on landslide dams and outburst floods, includes a training course and a binational field trip from Mendoza (Argentina) to Los Andes (Chile) in December 2026. A second phase in the tropical Northern Andes will address earthquake- and rainfall-triggered landslides and their evolution into debris flows and torrential floods.",
+    "es": "Red internacional de investigadores que trabajan en movimientos en masa y amenazas en cascada a lo largo de los Andes. La primera fase, sobre represamientos por deslizamientos y crecientes por su ruptura, incluye un curso y una salida de campo binacional entre Mendoza (Argentina) y Los Andes (Chile) en diciembre de 2026. Una segunda fase en los Andes tropicales del norte abordará los movimientos en masa detonados por sismos y lluvias y su evolución a flujos de detritos y avenidas torrenciales."
+   },
+   "links": []
+  },
+  {
+   "id": "satcascade",
+   "acronym": "SAT-CASCADE",
+   "status": "proposal",
+   "years": "2026",
+   "funder": "Sistema General de Regalías, Convocatoria 56 (Minciencias)",
+   "role": {"en": "Principal investigator", "es": "Investigador principal"},
+   "title": {
+    "en": "Regional, impact-based multi-hazard early warning system for cascading landslides and torrential floods in the northwestern Colombian Andes",
+    "es": "Sistema regional de alerta temprana multiamenaza y basado en impactos para movimientos en masa y avenidas torrenciales en cascada en el noroccidente de los Andes colombianos"
+   },
+   "desc": {
+    "en": "A proposal to integrate existing monitoring networks, with open data, into a regional early warning system for rainfall-triggered landslides and torrential floods in territories affected by the August 2026 earthquake, together with regional risk-management agencies, universities and international partners.",
+    "es": "Propuesta para integrar las redes de monitoreo existentes, con datos abiertos, en un sistema regional de alerta temprana por movimientos en masa y avenidas torrenciales detonados por lluvia en los territorios afectados por el sismo de agosto de 2026, junto con entidades regionales de gestión del riesgo, universidades y aliados internacionales."
+   },
+   "links": []
+  },
+  {
+   "id": "geohazard",
+   "acronym": "Geohazard",
+   "status": "ongoing",
+   "years": "",
+   "funder": "Universidad Nacional de Colombia",
+   "role": {"en": "Leader, Geohazards research group", "es": "Líder, grupo de investigación Geohazards"},
+   "title": {
+    "en": "Geohazard: a database of landslides and torrential floods in Colombia and Antioquia",
+    "es": "Geohazard: base de datos de movimientos en masa y avenidas torrenciales en Colombia y Antioquia"
+   },
+   "desc": {
+    "en": "An open database and web application to explore historical landslides and torrential floods, with more than 5,000 events in Antioquia since 1900 and over 2,400 fatal events in Colombia. It underpins studies on the spatial and temporal patterns, triggers and impacts of these disasters.",
+    "es": "Base de datos abierta y aplicación web para consultar los movimientos en masa y las avenidas torrenciales históricos, con más de 5.000 eventos en Antioquia desde 1900 y más de 2.400 eventos fatales en Colombia. Sirve de base a estudios sobre los patrones espaciales y temporales, los detonantes y los impactos de estos desastres."
+   },
+   "links": [
+    {"label": "geohazards.com.co", "url": "https://geohazards.com.co/"},
+    {"label": "Paper (2025)", "url": "https://doi.org/10.18359/rcin.7786"}
+   ]
+  },
+  {
+   "id": "humboldt",
+   "acronym": "Humboldt fellowship",
+   "status": "completed",
+   "years": "2023–2025",
+   "funder": "Alexander von Humboldt Foundation, Georg Forster Research Fellowship",
+   "role": {"en": "Fellow, University of Potsdam (host: Prof. Oliver Korup)", "es": "Becario, Universidad de Potsdam (anfitrión: Prof. Oliver Korup)"},
+   "title": {
+    "en": "Understanding landslide patterns in the Colombian Andes",
+    "es": "Comprender los patrones de los movimientos en masa en los Andes colombianos"
+   },
+   "desc": {
+    "en": "Research stay at the Natural Hazards group of the University of Potsdam. Using a catalogue of some 14,000 landslides, the project studied the controls on their spatial distribution and their link to transient landscapes, to improve slope-stability and susceptibility models in this mountain region.",
+    "es": "Estancia de investigación en el grupo de Amenazas Naturales de la Universidad de Potsdam. Con un catálogo de unos 14.000 movimientos en masa, el proyecto estudió los controles de su distribución espacial y su relación con paisajes transitorios, para mejorar los modelos de estabilidad de laderas y de susceptibilidad en esta región de montaña."
+   },
+   "links": [
+    {"label": "Uni Potsdam", "url": "https://www.uni-potsdam.de/en/umwelt/forschung/ag-naturgefahren/forschungsprojekte/understanding-landslide-patterns-in-the-colombian-andes"},
+    {"label": "JGR Earth Surface (2025)", "url": "https://doi.org/10.1029/2024jf008027"}
+   ]
+  }
+ ]
+}

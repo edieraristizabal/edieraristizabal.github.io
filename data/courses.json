@@ -1,0 +1,122 @@
+{
+ "_comment": "Cursos que aparecen en courses.html. level: undergrad | grad. Cada enlace: kind = site | book | slides | repo.",
+ "courses": [
+  {
+   "id": "geomorfologia",
+   "name": {"en": "Geomorphology", "es": "Geomorfología"},
+   "level": "undergrad",
+   "program": {"en": "Geological Engineering", "es": "Ingeniería Geológica"},
+   "desc": {
+    "en": "Landforms, surface processes and landscape evolution, with emphasis on tropical mountain environments and their link to natural hazards.",
+    "es": "Formas del relieve, procesos superficiales y evolución del paisaje, con énfasis en ambientes tropicales de montaña y su relación con las amenazas naturales."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/Geomorfologia/"},
+    {"kind": "book", "url": "https://edieraristizabal.github.io/Libro_Geomorfologia/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/Geomorfologia"}
+   ]
+  },
+  {
+   "id": "geotecnia",
+   "name": {"en": "Geotechnics for Geologists", "es": "Geotecnia para geólogos"},
+   "level": "undergrad",
+   "program": {"en": "Geological Engineering", "es": "Ingeniería Geológica"},
+   "desc": {
+    "en": "Soil and rock mechanics applied to engineering geology: index properties, strength, slope stability and site characterization.",
+    "es": "Mecánica de suelos y rocas aplicada a la geología para ingenieros: propiedades índice, resistencia, estabilidad de taludes y caracterización de sitios."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/Geotecnia/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/Geotecnia"}
+   ]
+  },
+  {
+   "id": "cartografia",
+   "name": {"en": "Geotechnical Mapping", "es": "Cartografía Geotécnica"},
+   "level": "undergrad",
+   "program": {"en": "Geological Engineering", "es": "Ingeniería Geológica"},
+   "desc": {
+    "en": "Engineering-geological mapping of materials, processes and terrain units for land-use planning and hazard zoning.",
+    "es": "Cartografía de materiales, procesos y unidades de terreno con fines de ingeniería, ordenamiento territorial y zonificación de amenazas."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/CartografiaGeotecnica/"},
+    {"kind": "book", "url": "https://edieraristizabal.github.io/Libro_cartoGeotecnia/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/CartografiaGeotecnica"}
+   ]
+  },
+  {
+   "id": "sensores",
+   "name": {"en": "Remote Sensing", "es": "Sensores Remotos"},
+   "level": "undergrad",
+   "program": {"en": "Geological Engineering", "es": "Ingeniería Geológica"},
+   "desc": {
+    "en": "Physical principles of remote sensing, optical and radar imagery, and cloud processing for geological and geomorphological mapping.",
+    "es": "Principios físicos de la percepción remota, imágenes ópticas y de radar, y procesamiento en la nube para cartografía geológica y geomorfológica."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/Sensores-Remotos/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/Sensores-Remotos"}
+   ]
+  },
+  {
+   "id": "geoespacial",
+   "name": {"en": "Geospatial Analysis", "es": "Análisis Geoespacial"},
+   "level": "grad",
+   "program": {"en": "Graduate programs, Faculty of Mines", "es": "Posgrados de la Facultad de Minas"},
+   "desc": {
+    "en": "Spatial data science with Python: vector and raster data, point patterns, spatial autocorrelation, spatial regression and geostatistics.",
+    "es": "Ciencia de datos espaciales con Python: datos vectoriales y ráster, patrones de puntos, autocorrelación espacial, regresión espacial y geoestadística."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/AnalisisGeoespacial/"},
+    {"kind": "book", "url": "https://edieraristizabal.github.io/Libro_AnalisisGeoespacial/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/AnalisisGeoespacial"}
+   ]
+  },
+  {
+   "id": "ml",
+   "name": {"en": "Machine Learning in Geosciences", "es": "Machine Learning en Geociencias"},
+   "level": "grad",
+   "program": {"en": "Graduate program in Water Resources", "es": "Posgrado en Recursos Hidráulicos"},
+   "desc": {
+    "en": "Supervised and unsupervised learning, model validation and interpretability applied to hydrological and geohazard problems.",
+    "es": "Aprendizaje supervisado y no supervisado, validación e interpretabilidad de modelos aplicados a problemas hidrológicos y de amenazas geológicas."
+   },
+   "links": [
+    {"kind": "site", "url": "https://edieraristizabal.github.io/MachineLearning/"},
+    {"kind": "repo", "url": "https://github.com/edieraristizabal/MachineLearning"}
+   ]
+  },
+  {
+   "id": "avtorrenciales",
+   "name": {"en": "Torrential Floods and Debris Flows", "es": "Avenidas Torrenciales"},
+   "level": "grad",
+   "program": {"en": "Engineering, Faculty of Mines", "es": "Ingeniería, Facultad de Minas"},
+   "desc": {
+    "en": "Characterization, susceptibility and hazard assessment of debris flows and torrential floods in mountain catchments.",
+    "es": "Caracterización y evaluación de la susceptibilidad y la amenaza por avenidas torrenciales en cuencas de montaña."
+   },
+   "links": [
+    {"kind": "book", "url": "https://edieraristizabal.github.io/Libro_AvTorrenciales/"}
+   ]
+  }
+ ],
+ "resources": [
+  {
+   "name": {"en": "Lecture slides", "es": "Presentaciones de clase"},
+   "desc": {"en": "Slide decks used in lectures and talks.", "es": "Diapositivas usadas en clases y charlas."},
+   "url": "https://edieraristizabal.github.io/Presentaciones/"
+  },
+  {
+   "name": {"en": "Disasters in Colombia", "es": "Desastres en Colombia"},
+   "desc": {"en": "Teaching material on disasters caused by natural hazards.", "es": "Material docente sobre desastres de origen natural."},
+   "url": "https://edieraristizabal.github.io/Disasters/"
+  },
+  {
+   "name": {"en": "Awesome Geospatial Data Science", "es": "Awesome Geospatial Data Science"},
+   "desc": {"en": "A curated list of web resources on geospatial data science.", "es": "Lista seleccionada de recursos web sobre ciencia de datos geoespaciales."},
+   "url": "https://github.com/edieraristizabal/Awesome-GDS"
+  }
+ ]
+}

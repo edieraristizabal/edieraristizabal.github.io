@@ -1,0 +1,1242 @@
+{
+ "updated": "2026-10-24",
+ "profile": {
+  "citations": 2273,
+  "citations_5y": 1632,
+  "h_index": 24,
+  "h_index_5y": 22,
+  "i10_index": 52,
+  "i10_index_5y": 39
+ },
+ "counts": {
+  "article": 73,
+  "preprint": 2,
+  "conference": 23,
+  "thesis": 2
+ },
+ "publications": [
+  {
+   "title": "Urban poor are the most endangered by socio-natural hazards, but not exclusively: the 2025 Granizal Landslide case",
+   "authors": "U Ozturk, A Braun, JC Gómez-Zapata, E Aristizábal",
+   "venue": "Landslides 23 (4), 1179-1185",
+   "year": 2026,
+   "citations": 3,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:eq2jaN3J8jMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s10346-025-02680-y",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10346-025-02680-y.pdf"
+  },
+  {
+   "title": "Neighbourhoods in motion: unveiling the drivers behind structural damage hotspots in Medellin (Colombia)",
+   "authors": "J Vega, E Aristizabal, A Ospina, A Barra, JP Galve",
+   "venue": "Landslides 23 (7), 1913-1933",
+   "year": 2026,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:Fu2w8maKXqMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s10346-026-02758-1"
+  },
+  {
+   "title": "Landslide timing and rainfall regimes in a rapidly urbanizing tropical mountain valley in Colombia",
+   "authors": "EV Aristizábal, OI Sanchez, O Korup",
+   "venue": "Natural Hazards 122 (7), 306",
+   "year": 2026,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:JoZmwDi-zQgC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s11069-026-08028-6",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11069-026-08028-6.pdf"
+  },
+  {
+   "title": "Integrating spatial heterogeneity and dependence into landslide susceptibility modeling: a Gaussian-based regression framework",
+   "authors": "E Aristizábal, L Lombardo, O Korup",
+   "venue": "Geomatics, Natural Hazards and Risk 17 (1), 2700845",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:evX43VCCuoAC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1080/19475705.2026.2700845",
+   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2700845?needAccess=true"
+  },
+  {
+   "title": "Evaluation of Morphometric Conditioning Factors and Antecedent Rainfall in the Occurrence of Torrential Flows in Colombian Andean Watersheds",
+   "authors": "L Ortiz-Giraldo, D Gómez, EF García, BA Botero, J Vega, ...",
+   "venue": "Water 18 (17), 2201",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:2KloaMYe4IUC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.3390/w18172201",
+   "oa_url": "https://doi.org/10.3390/w18172201"
+  },
+  {
+   "title": "Tendencias espacio-temporales de movimientos en masa y avenidastorrenciales en Antioquia y Colombia: un análisis comparativo entreel período histórico y el quinquenio 2020-2025",
+   "authors": "E Aristizabal, D Correa, C Castañeda, A Acosta, MA Piedrahita, ...",
+   "venue": "Boletín de Ciencias de la Tierra, 20",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:35r97b3x0nAC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.15446/rbct.n60.127049",
+   "oa_url": "https://doi.org/10.15446/rbct.n60.127049"
+  },
+  {
+   "title": "The dominant role of latent spatial structure in landslide susceptibility",
+   "authors": "E Aristizábal, L Lombardo, O Korup",
+   "venue": "EGUsphere 2026, 1-23",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:7T2F9Uy0os0C",
+   "type": "preprint",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-2026-1749",
+   "oa_url": "https://doi.org/10.5194/egusphere-2026-1749"
+  },
+  {
+   "title": "Climate Stress, Infrastructure Limits, and Urban Landslide Risk",
+   "authors": "U Ozturk, P Bubeck, A Braun, JC Gómez‑Zapata, E Aristizábal",
+   "venue": "EGU26",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:JQOojiI6XY0C",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu26-3841",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu26-3841"
+  },
+  {
+   "title": "Using multilevel models to incorporate spatial heterogeneity in landslide susceptibility assessment",
+   "authors": "E Aristizábal",
+   "venue": "Andean Geology 53 (3)",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:VL0QpB8kHFEC",
+   "type": "article",
+   "alt_titles": [
+    "Using multilevel models to incorporate spatial heterogeneity in landslide susceptibility assessmenten la evaluación de la susceptibilidad por movimientos en masa"
+   ]
+  },
+  {
+   "title": "Influencia de la Heterogeneidad Espacial en la Evaluación de la Susceptibilidad por Movimientos en Masa.",
+   "authors": "E Aristizábal",
+   "venue": "Revista EIA 23 (45), 1",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:ZfRJV9d4-WMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.24050/reia.v23i45.1859",
+   "oa_url": "https://doi.org/10.24050/reia.v23i45.1859"
+  },
+  {
+   "title": "Spatial autoregression models for the evaluation of landslide susceptibility",
+   "authors": "E Aristizabal",
+   "venue": "Boletín de la Sociedad Geológica Mexicana 78 (1)",
+   "year": 2026,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:kzcrU_BdoSEC",
+   "type": "article",
+   "alt_titles": [
+    "Modelos de autorregresión espacial para la evaluación de la susceptibilidad por movimientos en masa"
+   ],
+   "doi": "10.18268/bsgm2026v78n1a031025",
+   "oa_url": "https://doi.org/10.18268/bsgm2026v78n1a031025"
+  },
+  {
+   "title": "Hillslope torrential hazard cascades in tropical mountains",
+   "authors": "MI Arango-Carmona, P Voit, M Hürlimann, E Aristizábal, O Korup",
+   "venue": "Natural Hazards and Earth System Sciences 25 (9), 3641-3663",
+   "year": 2025,
+   "citations": 16,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:olpn-zPbct0C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.5194/nhess-25-3641-2025",
+   "oa_url": "https://doi.org/10.5194/nhess-25-3641-2025"
+  },
+  {
+   "title": "Linking landslide patterns to transient landscapes in the northern Colombian Andes",
+   "authors": "E Aristizabal, O Korup",
+   "venue": "Journal of Geophysical Research: Earth Surface 130 (3), e2024JF008027",
+   "year": 2025,
+   "citations": 12,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:V3AGJWp-ZtQC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1029/2024jf008027",
+   "oa_url": "https://doi.org/10.1029/2024jf008027"
+  },
+  {
+   "title": "Coupled evolution of a city and landslides",
+   "authors": "S Nieto, E Aristizábal, U Ozturk",
+   "venue": "Environmental Research Letters 20 (5), 054001",
+   "year": 2025,
+   "citations": 10,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:5ugPr518TE4C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1088/1748-9326/adc4d8",
+   "oa_url": "https://doi.org/10.1088/1748-9326/adc4d8"
+  },
+  {
+   "title": "Geohazard: base de datos por movimientos en masa y avenidas torrenciales en Colombia y el departamento de Antioquia",
+   "authors": "E Aristizábal, D Correa, C García, AM Valencia, E Zabaleta",
+   "venue": "Ciencia e Ingeniería Neogranadina 35 (1), 131-147",
+   "year": 2025,
+   "citations": 6,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:XiVPGOgt02cC",
+   "type": "article",
+   "alt_titles": [
+    "Geohazard: A Database of Landslides and Torrential Floods In Colombia and the Department of Antioquia"
+   ],
+   "doi": "10.18359/rcin.7786",
+   "oa_url": "https://doi.org/10.18359/rcin.7786"
+  },
+  {
+   "title": "Mortality reduction despite changing climate extremes requires better understanding of human behavioral response to warnings",
+   "authors": "P Bubeck, U Ozturk, E Aristizabal, AH Thieken, T Wagener",
+   "venue": "Environmental Research Letters 20 (10), 101004",
+   "year": 2025,
+   "citations": 5,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:_B80troHkn4C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1088/1748-9326/ae034f",
+   "oa_url": "https://doi.org/10.1088/1748-9326/ae034f"
+  },
+  {
+   "title": "Exploring best-fit parameters for propagation modeling of shallow landslides, using Flow-R",
+   "authors": "J Palacio, E Aristizábal, M Mergili, O Echeverrí",
+   "venue": "Journal of South American Earth Sciences, 105739",
+   "year": 2025,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:kRWSkSYxWN8C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1016/j.jsames.2025.105739"
+  },
+  {
+   "title": "Spatial regression models to estimate landslide susceptibility",
+   "authors": "E Aristizábal, L Lombardo, O Korup",
+   "venue": "Available at SSRN 5458364",
+   "year": 2025,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:Y5dfb0dijaUC",
+   "type": "preprint",
+   "alt_titles": [],
+   "doi": "10.2139/ssrn.5458364",
+   "oa_url": "https://doi.org/10.2139/ssrn.5458364"
+  },
+  {
+   "title": "Modelling Debris Flood Propagation in Scarce Data Terrain, Case Study in the Colombian Andes",
+   "authors": "F Gomez Cardona, E Aristizábal, M Mergili",
+   "venue": "Journal of South American Earth Sciences",
+   "year": 2025,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:mvPsJ3kp5DgC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1016/j.jsames.2025.105660",
+   "oa_url": "https://doi.org/10.1016/j.jsames.2025.105660"
+  },
+  {
+   "title": "The coupled evolution of urban growth and landslide risk: Lessons from a century of disasters in Medellín, Colombia",
+   "authors": "E Aristizábal, U Ozturk, S Nieto, A Guerra, A Aguilar, JD Moreno",
+   "venue": "AGU Fall Meeting Abstracts 2025, NH22A-08",
+   "year": 2025,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:tKAzc9rXhukC",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "Accounting for spatial dependence and heterogeneity in landslide susceptibility assessment",
+   "authors": "E Aristizábal, L Lombardo, O Korup",
+   "venue": "AGU Fall Meeting Abstracts 2025, NH31B-02",
+   "year": 2025,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:ZuybSZzF8UAC",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "Extracción semi-automática de lineamientos mediante técnicas de análisis geoespacial",
+   "authors": "E Ferro-Palacios",
+   "venue": "Boletín de Geología 47 (3), 121-143",
+   "year": 2025,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:SdhP9T11ey4C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.18273/revbol.v47n3-2025006",
+   "oa_url": "https://revistas.uis.edu.co/index.php/revistaboletindegeologia/article/download/15728/14504"
+  },
+  {
+   "title": "Concatenated Natural Hazards: Modeling of the November 13, 2020 Debris Flow in the Municipality of Dabeiba (Antioquia)",
+   "authors": "E Aristizábal, EF García-Aristizábal, JC Guzmán-Martínez, ...",
+   "venue": "Boletín de Geología 47 (2), 107-123",
+   "year": 2025,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:9vf0nzSNQJEC",
+   "type": "article",
+   "alt_titles": [
+    "Amenazas naturales concatenadas: avenida torrencial del 13 de noviembre de 2020 en el municipio de Dabeiba (Colombia)"
+   ],
+   "doi": "10.18273/revbol.v47n2-2025005",
+   "oa_url": "https://doi.org/10.18273/revbol.v47n2-2025005"
+  },
+  {
+   "title": "The basal friction in the modeling of the propagation of shallow landslides–debris flow using r. avaflow",
+   "authors": "JP Cordoba, M Mergili, E ARISTIZÁBAL, O Echeverri",
+   "venue": "Revista de la Asociación Geológica Argentina 82 (1), 100-115",
+   "year": 2025,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:HE397vMXCloC",
+   "type": "article",
+   "alt_titles": []
+  },
+  {
+   "title": "Landslide susceptibility assessment in scarce-data regions using remote sensing data",
+   "authors": "EV Aristizábal-Giraldo, D Ruiz-Vásquez",
+   "venue": "Revista Facultad de Ingeniería Universidad de Antioquia, 45-59",
+   "year": 2024,
+   "citations": 5,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:B3FOqHPlNUQC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.17533/udea.redin.20231030",
+   "oa_url": "https://revistas.udea.edu.co/index.php/ingenieria/article/download/351082/20812702"
+  },
+  {
+   "title": "Spatial and temporal distribution of precipitation and its relationship with landslides within the Aburrá Valley, northern Colombian Andes.",
+   "authors": "D Herrera, E Aristizábal",
+   "venue": "European Geosciences Union General Assembly 2024 (EGU24), 12621",
+   "year": 2024,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:8AbLer7MMksC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu24-12621",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu24-12621"
+  },
+  {
+   "title": "Debris flow catchments and landscape evolution in the northern Colombian Andes",
+   "authors": "EV Aristizábal Giraldo, O Korup",
+   "venue": "European Geosciences Union General Assembly 2024 (EGU24), 16317",
+   "year": 2024,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:q3oQSFYPqjQC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu24-16317",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu24-16317"
+  },
+  {
+   "title": "Centennial landslide risk evolution in Medellin, Colombia",
+   "authors": "U Ozturk, SM Nieto Lopera, EV Aristizabal Giraldo",
+   "venue": "European Geosciences Union General Assembly 2024 (EGU24), 2451",
+   "year": 2024,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:VOx2b1Wkg3QC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu24-2451",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu24-2451"
+  },
+  {
+   "title": "Widespread cascading torrential hazards in tropical regions",
+   "authors": "MI Arango, M Hürlimann, E Aristizábal, O Korup",
+   "venue": "European Geosciences Union General Assembly 2024 (EGU24), 14250",
+   "year": 2024,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:5Ul4iDaHHb8C",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu24-14250",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu24-14250"
+  },
+  {
+   "title": "Spatial and temporal landslide distributions using global and open landslide databases",
+   "authors": "D Gómez, EF García, E Aristizábal",
+   "venue": "Natural Hazards 117 (1), 25-55",
+   "year": 2023,
+   "citations": 191,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:u9iWguZQMMsC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s11069-023-05848-8",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11069-023-05848-8.pdf"
+  },
+  {
+   "title": "Landslides forecasting using satellite rainfall estimations and machine learning in the Colombian Andean region",
+   "authors": "D Gomez, E Aristizabal, EF Garcia, D Marin, S Valencia, M Vasquez",
+   "venue": "Journal of South American Earth Sciences 125, 104293",
+   "year": 2023,
+   "citations": 27,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:XiSMed-E-HIC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1016/j.jsames.2023.104293"
+  },
+  {
+   "title": "Physically-based Model applied to Rainfall Thresholds for Shallow Landslides: Literature review",
+   "authors": "RJ Gonzalez, EA Giraldo, EG Aristizábal, RJ Marín",
+   "venue": "Revista de la Asociación Geológica Argentina 80 (2), 164-178",
+   "year": 2023,
+   "citations": 7,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:4fKUyHm3Qg0C",
+   "type": "article",
+   "alt_titles": [
+    "Movimientos en masa de la región andina"
+   ],
+   "oa_url": "https://revista.geologica.org.ar/raga/article/download/1742/1670"
+  },
+  {
+   "title": "Influencia de la lluvia antecedente en los deslizamientos en los Andes Colombianos",
+   "authors": "DEG García, E Aristizábal, E García",
+   "venue": "Revista de la Asociación Geológica Argentina 80 (2), 179-194",
+   "year": 2023,
+   "citations": 2,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:Tiz5es2fbqcC",
+   "type": "article",
+   "alt_titles": [],
+   "oa_url": "https://revista.geologica.org.ar/raga/article/download/1658/1643"
+  },
+  {
+   "title": "Morphological characteristics of drainage networks related to landslide cluster in the Colombian Andean",
+   "authors": "K Naranjo, E Aristizábal, J Palacio",
+   "venue": "E3S Web of Conferences 415, 05015",
+   "year": 2023,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:vRqMK49ujn8C",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.1051/e3sconf/202341505015",
+   "oa_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/52/e3sconf_dfhm82023_05015.pdf"
+  },
+  {
+   "title": "Definition of rainfall thresholds for shallow landslides in Colombian tropical mountainous catchments as debris flow triggering mechanism",
+   "authors": "R Jaramillo-González, L Martínez, E Aristizábal, E García, RJ Marín",
+   "venue": "E3S Web of Conferences 415, 05009",
+   "year": 2023,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:08ZZubdj9fEC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.1051/e3sconf/202341505009",
+   "oa_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/52/e3sconf_dfhm82023_05009.pdf"
+  },
+  {
+   "title": "Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca",
+   "authors": "E Aristizábal, FG Cardona, M Isabel, A Carmona",
+   "venue": "CONTRIBUCIONES LOCALES, REGIONALES Y NACIONALES, 92",
+   "year": 2023,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:738O_yMBCRsC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.5281/zenodo.21627232",
+   "oa_url": "https://doi.org/10.5281/zenodo.21627232"
+  },
+  {
+   "title": "Rainfall-intensity effect on landslide hazard assessment due to climate change in north-western Colombian Andes",
+   "authors": "E Aristizábal, EF Garcia, RJ Marin, F Gómez, J Guzmán-Martínez",
+   "venue": "Revista Facultad de Ingeniería Universidad de Antioquia, 51-66",
+   "year": 2022,
+   "citations": 58,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:CHSYGLWDkRkC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.17533/udea.redin.20201215",
+   "oa_url": "https://doi.org/10.17533/udea.redin.20201215"
+  },
+  {
+   "title": "A landslide numerical factor derived from CHIRPS for shallow rainfall triggered landslides in Colombia",
+   "authors": "CA Cullen, R Al Suhili, E Aristizabal",
+   "venue": "Remote Sensing 14 (9), 2239",
+   "year": 2022,
+   "citations": 17,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:xtRiw3GOFMkC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.3390/rs14092239",
+   "oa_url": "https://www.mdpi.com/2072-4292/14/9/2239/pdf?version=1651909177"
+  },
+  {
+   "title": "Modelo de inteligencia artificial y aprendizaje automático para la predicción espacial y temporal de eventos de sequía en el departamento del Magdalena, Colombia.",
+   "authors": "DMH Posada, E Aristizábal",
+   "venue": "Inge CuC 18 (2), 249-265",
+   "year": 2022,
+   "citations": 14,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:UxriW0iASnsC",
+   "type": "article",
+   "alt_titles": [
+    "Artificial intelligence and machine learning model for spatial and temporal prediction of drought events in the department of Magdalena, Colombia",
+    "Artificial intelligence and machine learning model for spatial and temporal prediction of drought events in the department of magdalena, colombia"
+   ],
+   "doi": "10.17981/ingecuc.18.2.2022.20",
+   "oa_url": "https://revistascientificas.cuc.edu.co/ingecuc/article/download/3812/4416"
+  },
+  {
+   "title": "Umbrales de lluvia como detonante de movimientos en masa en el piedemonte de la cordillera Central en los Andes colombianos",
+   "authors": "E Aristizábal, F Riaño, J Jiménez-Ortiz",
+   "venue": "Boletín de Geología 44 (2), 183-197",
+   "year": 2022,
+   "citations": 11,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:P5F9QuxV20EC",
+   "type": "article",
+   "alt_titles": [
+    "Rainfall thresholds as triggering factor in the Central cordillera of the Colombian Andes"
+   ],
+   "doi": "10.18273/revbol.v44n2-2022009",
+   "oa_url": "https://revistas.uis.edu.co/index.php/revistaboletindegeologia/article/download/12023/12501"
+  },
+  {
+   "title": "Metodologías para la evaluación de la amenaza por movimientos en masa como parte de los estudios básico de amenaza: caso de estudio municipio de Andes, Antioquia, Colombia",
+   "authors": "E Aristizábal, P Morales-García, M Vásquez-Guarín, D Ruíz-Vásquez, ...",
+   "venue": "Boletín de Geología 44 (3), 199-217",
+   "year": 2022,
+   "citations": 10,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:KxtntwgDAa4C",
+   "type": "article",
+   "alt_titles": [
+    "Methodologies for landslides hazard assessment in basic hazard studies: case study municipality of Andes, Antioquia, Colombia"
+   ],
+   "doi": "10.18273/revbol.v44n3-2022009",
+   "oa_url": "https://revistas.uis.edu.co/index.php/revistaboletindegeologia/article/download/13724/12660"
+  },
+  {
+   "title": "Assessing two methods of defining rainfall intensity and duration thresholds for shallow landslides in data-scarce catchments of the Colombian Andean Mountains",
+   "authors": "RJ Marin, MF Velásquez, EF García, M Alvioli, E Aristizábal",
+   "venue": "Catena 206, 105563",
+   "year": 2021,
+   "citations": 53,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:a0OBvERweLwC",
+   "type": "article",
+   "alt_titles": [
+    "Assessing two methods to define rainfall intensity and duration thresholds for shallow landslides in data-scarce catchments of the Colombian andean Mountains"
+   ],
+   "doi": "10.1016/j.catena.2021.105563"
+  },
+  {
+   "title": "Morphometrical analysis of torrential flows-prone catchments in tropical and mountainous terrain of the Colombian Andes by machine learning techniques",
+   "authors": "MI Arango, E Aristizabal, F Gomez",
+   "venue": "Natural Hazards 105 (1), 983-1012",
+   "year": 2021,
+   "citations": 47,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:RYcK_YlVTxYC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s11069-020-04346-5"
+  },
+  {
+   "title": "Assessing the effectiveness of TRIGRS for predicting unstable areas in a tropical mountain basin (Colombian Andes)",
+   "authors": "RJ Marin, EF García, E Aristizábal",
+   "venue": "Geotechnical and Geological Engineering 39 (3), 2329-2346",
+   "year": 2021,
+   "citations": 45,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:vV6vV6tmYwMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s10706-020-01630-w"
+  },
+  {
+   "title": "Aplicación de inteligencia artificial y técnicas de aprendizaje automático para la evaluación de la susceptibilidad por movimientos en masa",
+   "authors": "JP Ospina-Gutiérrez, E Aristizábal",
+   "venue": "Revista mexicana de ciencias geológicas 38 (1), 43-54",
+   "year": 2021,
+   "citations": 30,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:SeFeTyx0c_EC",
+   "type": "article",
+   "alt_titles": [
+    "Application of Artificial Intelligence and machine learning techniques for landslide susceptibility assessment"
+   ],
+   "doi": "10.22201/cgeo.20072902e.2021.1.1605",
+   "oa_url": "http://rmcg.geociencias.unam.mx/index.php/rmcg/article/view/1605/1414"
+  },
+  {
+   "title": "A case study on causation of the landslide on 26 October 2016 in the northern Colombian Andes",
+   "authors": "HE Martínez-Carvajal, E Aristizábal, EF García-Aristizábal",
+   "venue": "Dyna 88 (216), 22-30",
+   "year": 2021,
+   "citations": 7,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:zA6iFVUQeVQC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.15446/dyna.v88n216.88600",
+   "oa_url": "https://doi.org/10.15446/dyna.v88n216.88600"
+  },
+  {
+   "title": "Rainfall Thresholds for Shallow Landslides by coupled Physically-Based Models and Machine Learning methods in Colombian Andes Basins",
+   "authors": "R Jaramillo-González, E Aristizábal, EF García-Aristizábal",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-9123",
+   "year": 2021,
+   "citations": 4,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:pqnbT2bcN3wC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-9123",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-9123"
+  },
+  {
+   "title": "Regional and detailed multi-hazard assessment of debris-flow processes in the Colombian Andes",
+   "authors": "F Gómez Cardona, E Aristizábal Giraldo, MI Arango, M Mergili",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-13139",
+   "year": 2021,
+   "citations": 3,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:yD5IFk8b50cC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-13139",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-13139"
+  },
+  {
+   "title": "Artificial Intelligence and machine learning model for spatial and temporal prediction of drought in the Colombia Caribbean region.",
+   "authors": "D Herrera, E Aristizábal",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-3599",
+   "year": 2021,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:M05iB0D1s5AC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-3599",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-3599"
+  },
+  {
+   "title": "Shallow landslide occurrence and propagation in tropical mountainous terrain with open source models. A case study in the Colombian Andes.",
+   "authors": "J Palacio, E Aristizábal, M Mergili, O Echeverri",
+   "venue": "EGU General Assembly",
+   "year": 2021,
+   "citations": 1,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:g5m5HwL7SMYC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-5819",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-5819"
+  },
+  {
+   "title": "Landslide and Torrential Flow Susceptibility Conditions Regarding Landscape Evolution in the Northern Colombian Andes",
+   "authors": "E Aristizábal",
+   "venue": "International Conference on Natural Hazards and Risks in a Changing World",
+   "year": 2021,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:pyW8ca7W8N0C",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "Hydro-meteorological hazard analysis for new settlements framed in the Colombian peace process",
+   "authors": "EV Aristizábal Giraldo",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-13833",
+   "year": 2021,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:4OULZ7Gr8RgC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-13833",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-13833"
+  },
+  {
+   "title": "Approach for analyzing landslide and torrential flow hazard conditions in relation to landscape evolution in the northern Colombian Andes",
+   "authors": "K Naranjo Bedoya, E Aristizábal, D Hölbling, J García, A Aguilar, D Ortiz",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-8508",
+   "year": 2021,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:fPk4N6BV_jEC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-8508",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-8508"
+  },
+  {
+   "title": "Morphometrical analysis of Debris flow fans and torrential catchments in mountainous terrain in the northern Colombian Andes by machine learning techniques.",
+   "authors": "E Castillo Cardona, E Aristizábal",
+   "venue": "EGU General Assembly Conference Abstracts, EGU21-3680",
+   "year": 2021,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:u_35RYKgDlwC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.5194/egusphere-egu21-3680",
+   "oa_url": "https://doi.org/10.5194/egusphere-egu21-3680"
+  },
+  {
+   "title": "Spatial and temporal patterns and the socioeconomic impacts of landslides in the tropical and mountainous Colombian Andes",
+   "authors": "E Aristizábal, O Sánchez",
+   "venue": "Disasters 44 (3), 596-618",
+   "year": 2020,
+   "citations": 119,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:4JMBOYKVnBMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1111/disa.12391"
+  },
+  {
+   "title": "Effect of basin morphometric parameters on physically-based rainfall thresholds for shallow landslides",
+   "authors": "RJ Marin, EF García, E Aristizábal",
+   "venue": "Engineering Geology 278, 105855",
+   "year": 2020,
+   "citations": 74,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:J_g5lzvAfSwC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1016/j.enggeo.2020.105855"
+  },
+  {
+   "title": "Probabilistic landslide susceptibility analysis in tropical mountainous terrain using the physically based r. slope. stability model",
+   "authors": "J Palacio Cordoba, M Mergili, E Aristizábal",
+   "venue": "Natural Hazards and Earth System Sciences 20 (3), 815-829",
+   "year": 2020,
+   "citations": 73,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:KlAtU1dfN6UC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.5194/nhess-20-815-2020",
+   "oa_url": "https://nhess.copernicus.org/articles/20/815/2020/nhess-20-815-2020.pdf"
+  },
+  {
+   "title": "Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos",
+   "authors": "E Aristizábal, MI Arango Carmona, IK García López",
+   "venue": "Cuadernos de Geografía: Revista Colombiana de Geografía 29 (1), 242-258",
+   "year": 2020,
+   "citations": 64,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:mVmsd5A6BfQC",
+   "type": "article",
+   "alt_titles": [
+    "Definition and classification of torrential avenues and their impact in the Colombian Andes"
+   ],
+   "doi": "10.15446/rcdg.v29n1.72612",
+   "oa_url": "https://doi.org/10.15446/rcdg.v29n1.72612"
+  },
+  {
+   "title": "Hazard analysis of hydrometeorological concatenated processes in the Colombian Andes",
+   "authors": "E Aristizábal, MI Arango Carmona, FJ Gómez, SM López Castro, ...",
+   "venue": "Advances in Natural Hazards and Hydrological Risks: Meeting the Challenge …",
+   "year": 2020,
+   "citations": 19,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:ZeXyd9-uunAC",
+   "type": "conference",
+   "alt_titles": [],
+   "doi": "10.1007/978-3-030-34397-2_2"
+  },
+  {
+   "title": "Análisis de la amenaza por movimientos en masa detonados por sismo en los Andes colombianos, caso de estudio: Barbosa (Antioquia)",
+   "authors": "EV Aristizábal Giraldo, FJ Gómez Cardona, EF García Aristizábal, ...",
+   "venue": "Ciencia e Ingeniería Neogranadina 30 (2), 31-47",
+   "year": 2020,
+   "citations": 9,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:cFHS6HbyZ2cC",
+   "type": "article",
+   "alt_titles": [
+    "Analysis of the Threat from Mass Wasting Triggered by Earthquakes in the Colombian Andes, Case Study: Barbosa (Antioquia)"
+   ],
+   "doi": "10.18359/rcin.4304",
+   "oa_url": "https://revistas.unimilitar.edu.co/index.php/rcin/article/download/4304/4476"
+  },
+  {
+   "title": "Definición de áreas con condición de amenaza y áreas con condición de riesgo en los planes de ordenamiento territorial de los municipios en Colombia",
+   "authors": "EVA Giraldo, S López, JCG Gómez, LF López",
+   "venue": "Gestión y Ambiente 23 (2), 227-238",
+   "year": 2020,
+   "citations": 6,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:D03iK_w7-QYC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.15446/ga.v23n2.87129",
+   "oa_url": "https://doi.org/10.15446/ga.v23n2.87129"
+  },
+  {
+   "title": "Seasonal shift of the diurnal cycle of rainfall over Medellin's Valley, Central Andes of Colombia (1998–2005)",
+   "authors": "JM Bedoya-Soto, E Aristizabal, AM Carmona, G Poveda",
+   "venue": "Frontiers in Earth Science 7, 92",
+   "year": 2019,
+   "citations": 84,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:9yKSN-GCB0IC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.3389/feart.2019.00092",
+   "oa_url": "https://doi.org/10.3389/feart.2019.00092"
+  },
+  {
+   "title": "Evaluación de la amenaza por movimientos en masa detonados por lluvias para una región de los Andes colombianos estimando la probabilidad espacial, temporal, y magnitud",
+   "authors": "E Aristizábal, S López, O Sánchez, M Vásquez, F Rincón, ...",
+   "venue": "Boletín de Geología 41 (3), 85-105",
+   "year": 2019,
+   "citations": 31,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:QIV2ME_5wuYC",
+   "type": "article",
+   "alt_titles": [
+    "Landslide hazard assessment triggered by rainfall in a Colombian Andes region estimating spatial, temporal and magnitude probability"
+   ],
+   "doi": "10.18273/revbol.v41n3-2019004",
+   "oa_url": "https://revistas.uis.edu.co/index.php/revistaboletindegeologia/article/download/10000/10030/"
+  },
+  {
+   "title": "Métodos estadísticos para la evaluación de la susceptibilidad por movimientos en masa",
+   "authors": "E Aristizábal, M Vásquez, D Ruíz",
+   "venue": "TecnoLógicas 22 (46), 43-64",
+   "year": 2019,
+   "citations": 30,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:_kc_bZDykSQC",
+   "type": "article",
+   "alt_titles": [
+    "The Susceptibility of Landslide Evaluation and Zoning by Statistical Methods"
+   ],
+   "doi": "10.22430/22565337.1247",
+   "oa_url": "https://revistas.itm.edu.co/index.php/tecnologicas/article/download/1247/1332"
+  },
+  {
+   "title": "Umbrales de lluvia para deslizamientos superficiales basados en modelos físicos: aplicación en una subcuenca del Valle de Aburrá (Colombia)",
+   "authors": "RJ Marín, E García, E Aristizábal",
+   "venue": "Dyna 86 (210), 312-322",
+   "year": 2019,
+   "citations": 26,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:W7OEmFMy1HYC",
+   "type": "article",
+   "alt_titles": [
+    "Rainfall thresholds for shallow landslides based on physical models: Application in a sub-basin of the Valle de Aburrá (Colombia)"
+   ],
+   "doi": "10.15446/dyna.v86n210.77166",
+   "oa_url": "https://doi.org/10.15446/dyna.v86n210.77166"
+  },
+  {
+   "title": "Implementación del modelo TRIGRS con análisis de confiabilidad para la evaluación de la amenaza a movimientos en masa superficiales detonados por lluvia",
+   "authors": "EF García-Aristizábal, E Aristizábal, RJ Marín, JC Guzmán Martínez",
+   "venue": "TecnoLógicas 22 (44), 112-130",
+   "year": 2019,
+   "citations": 24,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:4DMP91E08xMC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.22430/22565337.1037",
+   "oa_url": "https://revistas.itm.edu.co/index.php/tecnologicas/article/download/1037/1175"
+  },
+  {
+   "title": "Estimación y análisis de umbrales críticos de lluvia para la ocurrencia de avenidas torrenciales en el Valle de Aburrá (Antioquia)",
+   "authors": "LA GUERRERO-HOYOS, E ARISTIZÁBAL-GíRALDO",
+   "venue": "Revista EIA 16 (32), 97-111",
+   "year": 2019,
+   "citations": 21,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:BqipwSGYUEgC",
+   "type": "article",
+   "alt_titles": [
+    "Critical rainfall threshold analysis and estimation for flash flood occurrence in Aburrá Valley (Antioquia)",
+    "Estimação e análises dos limiares críticos de chuva para a ocorrência de inundações torrenciais no Vale do Aburrá (Antioquia)"
+   ],
+   "doi": "10.24050/reia.v16i32.1281",
+   "oa_url": "https://revistas.eia.edu.co/index.php/reveia/article/download/1281/1249"
+  },
+  {
+   "title": "Influencia del ENSO en la variabilidad espacial y temporal de la ocurrencia de movimientos en masa desencadenados por lluvias en la región Andina colombiana",
+   "authors": "K Naranjo Bedoya, EV Aristizábal Giraldo, JA Morales Rodelo",
+   "venue": "Ingeniería y Ciencia 15 (29), 11-42",
+   "year": 2019,
+   "citations": 12,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:Wp0gIr-vW9MC",
+   "type": "article",
+   "alt_titles": [
+    "Influence of the ENSO on the spatio-temporal variability rainfall triggered landslides in the Andean region"
+   ],
+   "doi": "10.17230/ingciencia.15.29.1",
+   "oa_url": "https://doi.org/10.17230/ingciencia.15.29.1"
+  },
+  {
+   "title": "Inventario y análisis de desastres por fenómenos de origen natural en el departamento de Antioquia durante el año 2018",
+   "authors": "E Aristizábal, A De Villeros, F Riaño-Quintanilla",
+   "venue": "Boletín de Ciencias de la Tierra, 15-18",
+   "year": 2019,
+   "citations": 7,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:eQOLeE2rZwMC",
+   "type": "article",
+   "alt_titles": [
+    "Inventory and analysis of disasters caused by natural phenomena in the Antioquia department during 2018"
+   ],
+   "doi": "10.15446/rbct.n46.77482",
+   "oa_url": "https://doi.org/10.15446/rbct.n46.77482"
+  },
+  {
+   "title": "Análisis estructural del Anticlinal de Bogotá, Cordillera Oriental de Colombia: Implicaciones en el estilo de deformación del Piedemonte Llanero",
+   "authors": "D Barrera, A Mora, E Tesón",
+   "venue": "Boletín de Geología 41 (3), 15-30",
+   "year": 2019,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:eMMeJKvmdy0C",
+   "type": "article",
+   "alt_titles": []
+  },
+  {
+   "title": "A mathematical approach for assessing landslide vulnerability",
+   "authors": "HE MartínezCarvajal, MT de Moraes Guimarães Silva, ...",
+   "venue": "Earth Sciences Research Journal 22 (4), 251-273",
+   "year": 2018,
+   "citations": 18,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:MXK_kJrjxJIC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.15446/esrj.v22n4.68553",
+   "oa_url": "https://doi.org/10.15446/esrj.v22n4.68553"
+  },
+  {
+   "title": "Landslide susceptibility assessment in mountainous and tropical scarce-data regions using remote sensing data: A case study in the Colombian Andes",
+   "authors": "D Ruiz-Vásquez, E Aristizábal",
+   "venue": "EGU General Assembly Conference Abstracts, 3408",
+   "year": 2018,
+   "citations": 11,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:geHnlv5EZngC",
+   "type": "conference",
+   "alt_titles": [
+    "Landslide susceptibility assessment in mountainous and tropical scarce-data regions using remote sensing data: a case study in the Colombian Andes"
+   ]
+  },
+  {
+   "title": "Spatial and temporal patterns and socioeconomic impact of landslides in Colombia",
+   "authors": "O Sanchez, E Aristizábal",
+   "venue": "EGU General Assembly Conference Abstracts, 3575",
+   "year": 2018,
+   "citations": 10,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:qjMakFHDy7sC",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "Propuesta metodológica para la zonificación de la susceptibilidad y amenaza por movimientos en masa en proyectos lineales: Caso de estudio Tramo 2, vía Medellín-Turbo",
+   "authors": "JA Jiménez, E Aristizábal",
+   "venue": "Boletín de Ciencias de la Tierra, 14-23",
+   "year": 2018,
+   "citations": 10,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:9ZlFYXVOiuMC",
+   "type": "article",
+   "alt_titles": [
+    "A methodological proposal for landslide susceptibility mapping in linear projects: A study case, Medellin–Turbo highway, Section 2"
+   ],
+   "doi": "10.15446/rbct.n43.64683",
+   "oa_url": "https://doi.org/10.15446/rbct.n43.64683"
+  },
+  {
+   "title": "Landslides-triggering rainfall thresholds in the Aburrá Valley, northern Colombian Andes",
+   "authors": "E Aristizabal, F Rincón-Durán, MI Arango, JA Morales",
+   "venue": "EGU General Assembly Conference Abstracts, 17981",
+   "year": 2018,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:IjCSPb-OGe4C",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "Metodología para la zonificación de la susceptibilidad por movimientos en masa en proyectos lineales. Estudio de caso en el acueducto del municipio de Fredonia, Antioquia",
+   "authors": "J Mendoza Ramírez, E Aristizábal",
+   "venue": "Ingeniería y ciencia 13 (26), 173-206",
+   "year": 2017,
+   "citations": 22,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:UebtZRa9Y70C",
+   "type": "article",
+   "alt_titles": [
+    "Methodology for Landslide Susceptibility Assess-ment Along Linear Projects. Study Case in the Water Supply Pipeline of Fredonia, Antioquia",
+    "Metodología para la zonificación de la susceptibilidad por movimientos en masa en proyectos lineales"
+   ],
+   "doi": "10.17230/ingciencia.13.26.7",
+   "oa_url": "http://publicaciones.eafit.edu.co/index.php/ingciencia/article/download/4668/4077"
+  },
+  {
+   "title": "Modelling shallow landslides triggered by rainfall in tropical and mountainous basins",
+   "authors": "E Aristizábal, H Martínez-Carvajal, E García-Aristizábal",
+   "venue": "Workshop on World Landslide Forum, 207-212",
+   "year": 2017,
+   "citations": 22,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:5nxA0vEk-isC",
+   "type": "conference",
+   "alt_titles": [
+    "Modeling shallow landslides triggered by rainfall in tropical and mountainous terrains"
+   ],
+   "doi": "10.1007/978-3-319-53485-5_23"
+  },
+  {
+   "title": "SHIA_Landslide: a distributed conceptual and physically based model to forecast the temporal and spatial occurrence of shallow landslides triggered by rainfall in tropical and …",
+   "authors": "E Aristizábal, JI Vélez, HE Martínez, M Jaboyedoff",
+   "venue": "Landslides 13 (3), 497-517",
+   "year": 2016,
+   "citations": 104,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:aqlVkmm33-oC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s10346-015-0580-7"
+  },
+  {
+   "title": "Influencia de la lluvia antecedente y la conductividad hidráulica en la ocurrencia de deslizamientos detonados por lluvias utilizando el modelo SHIA_Landslide",
+   "authors": "EV Aristizábal Giraldo, JI Vélez Upegui, HE Martínez Carvajal",
+   "venue": "Revista EIA, 31-46",
+   "year": 2016,
+   "citations": 20,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:eflP2zaiRacC",
+   "type": "article",
+   "alt_titles": [
+    "Influences of antecedent rainfall and hydraulic conductivity on landslides triggered by rainfall occurrence using the model SHIA_LANDSLIDE"
+   ],
+   "doi": "10.24050/reia.v13i26.863",
+   "oa_url": "https://revistas.eia.edu.co/index.php/reveia/article/download/863/987"
+  },
+  {
+   "title": "A comparison of linear and nonlinear model performance of shia_landslide: a forecasting model for rainfall-induced landslides",
+   "authors": "EV Aristizábal-Giraldo, JI Vélez-Upegui, HE Martínez-Carvajal",
+   "venue": "Revista Facultad de Ingeniería Universidad de Antioquia, 74-88",
+   "year": 2016,
+   "citations": 13,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:hMod-77fHWUC",
+   "type": "article",
+   "alt_titles": [
+    "Comparacion del desempeno de modelo shia_landslide lineal y no-lineal: un modelo para el pronostico de deslizamientos detonados por lluvias."
+   ],
+   "doi": "10.17533/udea.redin.n80a09",
+   "oa_url": "https://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/download/25592/20782804"
+  },
+  {
+   "title": "Método estadístico multivariado-regresión logística para estudio de susceptibilidad ante deslizamientos de la cuenca La Loma en el municipio de Santa Bárbara",
+   "authors": "F Rincón, L Castrillón, M Rivera, Y Pereira, E Aristizábal",
+   "venue": "Medellín, Colombia: Antioquia Conceptos previos Movimientos en masa",
+   "year": 2016,
+   "citations": 3,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:d1gkVwhDpl0C",
+   "type": "article",
+   "alt_titles": []
+  },
+  {
+   "title": "Susceptibility assessment of shallow landslides triggered by rainfall in tropical basins and mountainous terrains",
+   "authors": "E Aristizábal, E García, C Martínez",
+   "venue": "Natural Hazards 78 (1), 621-634",
+   "year": 2015,
+   "citations": 73,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:hqOjcs7Dif8C",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1007/s11069-015-1736-4"
+  },
+  {
+   "title": "Mountain Tropical Rainfall: evidence of Phase-Locking between the diurnal, annual and interannual cycles in the Andes of Colombia",
+   "authors": "G Poveda, M Bedoya, E Aristizábal",
+   "venue": "AGU Fall Meeting Abstracts 2015, A44B-07",
+   "year": 2015,
+   "citations": 5,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:hFOr9nPyWt4C",
+   "type": "conference",
+   "alt_titles": []
+  },
+  {
+   "title": "SHIA_Landslide: Developing a physically based model to predict shallow landslides triggered by rainfall in tropical environments",
+   "authors": "E Aristizábal, JI Vélez, HE Martínez",
+   "venue": "Universidad Nacional de Colombia",
+   "year": 2013,
+   "citations": 21,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:3fE2CSJIrl8C",
+   "type": "thesis",
+   "alt_titles": []
+  },
+  {
+   "title": "Análisis de umbrales empíricos de lluvia para el pronóstico de movimientos en masa en el Valle de Aburrá, Colombia",
+   "authors": "E Aristizábal, T González, JD Montoya, JI Vélez, H Martínez, A Guerra",
+   "venue": "Revista EIA, 95-111",
+   "year": 2011,
+   "citations": 77,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:R3hNpaxXUhUC",
+   "type": "article",
+   "alt_titles": [
+    "ANÁLISE DE LIMIARES EMPÍRICOS DE PRECIPITAÇÃO PARA O PROGNÓSTICO DE MOVIMENTOS EM MASSA NO VALE DE ABURRÁ, COLÔMBIA",
+    "Analysis of empirical rainfall thresholds for the prognosis of landslides in the Aburrá Valley, Colombia"
+   ],
+   "oa_url": "http://hdl.handle.net/11190/221"
+  },
+  {
+   "title": "Propuesta de zonificación del suelo para la gestión del riesgo enfocada al ordenamiento territorial",
+   "authors": "E Aristizabal, M Hermelin",
+   "venue": "Gestión y Ambiente 14 (2), 7-16",
+   "year": 2011,
+   "citations": 27,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:_FxGoFyzp5QC",
+   "type": "article",
+   "alt_titles": [
+    "A proposal for terrain zoning for risk management focusing on land use definition",
+    "A proposal for terrain zoning for risk management focusing on land use definition; Propuesta de zonificacion del suelo para la gestion del riesgo enfocada al ordenamiento …",
+    "Propuesta de zonificación del suelo"
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/gestion/article/download/25468/25972"
+  },
+  {
+   "title": "Caracterización geotécnica de perfiles de meteorización desarrollados sobre rocas ígneas en ambientes tropicales",
+   "authors": "E Aristizábal, Y Valencia, A Guerra, M Velez, O ECHEVERR",
+   "venue": "Boletín de Ciencias de la Tierra, 93-106",
+   "year": 2011,
+   "citations": 22,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:Y0pCki6q_DkC",
+   "type": "article",
+   "alt_titles": [
+    "Geotechnical Characterization of Weathering Profiles Developed on Igneous Rocks in Tropical Environments"
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/rbct/article/download/29298/29537"
+  },
+  {
+   "title": "Una revisión sobre el estudio de movimientos en masa detonados por lluvias",
+   "authors": "E Aristizábal, H Martínez, JI Vélez",
+   "venue": "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales …",
+   "year": 2010,
+   "citations": 103,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:RHpTSmoSYBkC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.18257/raccefyn.34(131).2010.2413",
+   "oa_url": "https://raccefyn.co/index.php/raccefyn/article/download/2413/3811"
+  },
+  {
+   "title": "SISTEMA DE ALERTA ADIANTADA POR MOVIMENTOS EM MASSA INDUZIDOS POR CHUVA PARA O VALE DE ABURRÁ, NA COLÔMBIA",
+   "authors": "E Aristizábal, MF Gamboa, FJ Leoz",
+   "venue": "Revista EIA, 155-169",
+   "year": 2010,
+   "citations": 79,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:tOudhMTPpwUC",
+   "type": "article",
+   "alt_titles": [
+    "Early warning system for rainfall-induced landslides in the Aburrá Valley, Colombia"
+   ],
+   "oa_url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-12372010000100012"
+  },
+  {
+   "title": "Patrones e índices de meteorización química de los depósitos de vertiente y rocas fuentes en el Valle de Aburrá",
+   "authors": "E Aristizábal, B Roser, S Yokota",
+   "venue": "Boletín de Ciencias de la Tierra, 27-42",
+   "year": 2009,
+   "citations": 24,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:zYLM7Y9cAGgC",
+   "type": "article",
+   "alt_titles": [
+    "Chemical weathering trend and index of hillslope deposits and bedrock source in the Aburrá Valley"
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/rbct/article/download/10859/11336"
+  },
+  {
+   "title": "Evolución geomorfológica del Valle de Aburrá y sus implicaciones en la ocurrencia de movimientos en masa",
+   "authors": "E Aristizábal, S Yokota",
+   "venue": "Boletín de Ciencias de la Tierra, 05-18",
+   "year": 2008,
+   "citations": 61,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:LkGwnXOMwfcC",
+   "type": "article",
+   "alt_titles": [
+    "Evolución geomorfológica del valle de aburrá y sus implicaciones en la ocurrencia de movimientos en masa",
+    "GEOMORPHOLOGICAL EVOLUTION OF THE ABURRÁ VALLEY AND IMPLICATIONS FOR LANDSLIDE OCCURRENCE."
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/rbct/article/download/9268/9931"
+  },
+  {
+   "title": "Características, dinámica y causas del movimiento en masa del barrio el socorro (31 de mayo de 2008) en Medellín",
+   "authors": "É AristizábAl",
+   "venue": "Revista EIA, 19-29",
+   "year": 2008,
+   "citations": 20,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:mB3voiENLucC",
+   "type": "article",
+   "alt_titles": [
+    "Characteristics, dynamics and causes of the moment in mas of the district El Socorro (May 31, 2008) in Medellín"
+   ],
+   "oa_url": "http://hdl.handle.net/11190/609"
+  },
+  {
+   "title": "Diagnóstico y propuesta para una gestión integral del riesgo en el Valle de Aburrá: Red Riesgos",
+   "authors": "E Aristizábal, R Vargas, O Mesa",
+   "venue": "Gestión y Ambiente 11 (2), 107-121",
+   "year": 2008,
+   "citations": 12,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:u-x6o8ySG0sC",
+   "type": "article",
+   "alt_titles": [
+    "Diagnosis and proposal for an integrated risk management en el Valle de Aburra: red risks",
+    "Diagnosis and proposal for an integrated risk management en el Valle de Aburra: red risks; Diagnostico y propuesta para una gestion integral del riesgo en el valle de Aburra …"
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/gestion/article/view/13986"
+  },
+  {
+   "title": "Mapa de riesgo químico y por transporte de sustancias peligrosas en el Valle de Aburrá",
+   "authors": "E Aristizábal, J Gómez, G Londoño",
+   "venue": "Revista Universidad EAFIT# DescubreyCrea 44 (150), 64-76",
+   "year": 2008,
+   "citations": 5,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:TFP_iSt0sucC",
+   "type": "article",
+   "alt_titles": []
+  },
+  {
+   "title": "Inventario de emergencias y desastres en el Valle de Aburrá. Originados por fenómenos naturales y antrópicos en el período 1880-2007",
+   "authors": "E Aristizábal, J Gómez",
+   "venue": "Gestión y ambiente 10 (2), 17-30",
+   "year": 2007,
+   "citations": 115,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:0EnyYjriUFMC",
+   "type": "article",
+   "alt_titles": [
+    "Inventory of emergencies and disasters in the Aburra Valley. Caused by natural and human phenomena in the period 1880-2007",
+    "Inventory of emergencies and disasters in the Aburra Valley. Caused by natural and human phenomena in the period 1880-2007; Inventario de emergencias y desastres en el Valle de …"
+   ],
+   "oa_url": "https://inis.iaea.org/Search/search.aspx?orig_q=RN:40100966"
+  },
+  {
+   "title": "Geomorfología aplicada a la ocurrencia de deslizamientos en el Valle de Aburrá",
+   "authors": "EVA Giraldo, S Yokota",
+   "venue": "DYNA: revista de la Facultad de Minas. Universidad Nacional de Colombia …",
+   "year": 2006,
+   "citations": 78,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:bFI3QPDXJZMC",
+   "type": "article",
+   "alt_titles": [
+    "Geomorphology applied to landslide occurrence in the Aburra Valley"
+   ],
+   "oa_url": "https://revistas.unal.edu.co/index.php/dyna/article/download/807/1265"
+  },
+  {
+   "title": "Tropical chemical weathering of hillslope deposits and bedrock source in the Aburrá Valley, northern Colombian Andes",
+   "authors": "E Aristizábal, B Roser, S Yokota",
+   "venue": "Engineering Geology 81 (4), 389-406",
+   "year": 2005,
+   "citations": 83,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:k_IJM867U9cC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.1016/j.enggeo.2005.08.001"
+  },
+  {
+   "title": "Geomorphological evolution of the Aburrá Valley, northern Colombian Andes, and implications for landslide occurrence",
+   "authors": "E Aristizábal",
+   "venue": "Shimane University, Shimane",
+   "year": 2004,
+   "citations": 16,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:hC7cP41nSMkC",
+   "type": "thesis",
+   "alt_titles": []
+  },
+  {
+   "title": "Dating of slope sediments and alluvial deposits in the Aburra Valley, Colombia",
+   "authors": "E Aristizabal, S Yokota, H Ohira",
+   "venue": "島根大学地球資源環境学研究報告 23, 85-88",
+   "year": 2004,
+   "citations": 11,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:HDshCWvjkbEC",
+   "type": "article",
+   "alt_titles": [],
+   "doi": "10.24568/6148",
+   "oa_url": "https://ir.lib.shimane-u.ac.jp/6148/files/12303"
+  },
+  {
+   "title": "Geología de los mármoles de la concesión minera Ríoclaro de Sumicol SA",
+   "authors": "JI Tobón, EVA Giraldo, ID Arango",
+   "venue": "Boletín de Ciencias de la Tierra, 23-30",
+   "year": 2003,
+   "citations": 0,
+   "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jelk50QAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=jelk50QAAAAJ:rO6llkc54NcC",
+   "type": "article",
+   "alt_titles": [],
+   "oa_url": "https://revistas.unal.edu.co/index.php/rbct/article/download/95456/79273"
+  }
+ ]
+}

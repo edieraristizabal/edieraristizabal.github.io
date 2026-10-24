@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications · Edier Aristizábal</title>
+  <meta name="description" content="Publications by Edier Aristizábal on landslides, debris flows, rainfall thresholds and geohazards, with DOIs and citation counts from Google Scholar.">
+  <link rel="icon" href="fig/UN_logo.gif">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600&display=swap">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script src="assets/js/site.js" defer></script>
+</head>
+<body data-title-en="Publications · Edier Aristizábal" data-title-es="Publicaciones · Edier Aristizábal">
+  <nav class="nav" aria-label="Main">
+    <div class="wrap">
+      <a class="brand" href="index.html">Edier Aristizábal</a>
+      <ul class="nav-links">
+        <li><a href="index.html"><span lang="en">Home</span><span lang="es">Inicio</span></a></li>
+        <li><a href="publications.html" aria-current="page"><span lang="en">Publications</span><span lang="es">Publicaciones</span></a></li>
+        <li><a href="projects.html"><span lang="en">Projects</span><span lang="es">Proyectos</span></a></li>
+        <li><a href="courses.html"><span lang="en">Teaching</span><span lang="es">Cursos</span></a></li>
+        <li><a href="https://geohazards.com.co/">Geohazards</a></li>
+      </ul>
+      <div class="nav-tools">
+        <button class="btn-icon" data-lang-toggle type="button">ES</button>
+        <button class="btn-icon" data-theme-toggle type="button" aria-label="Toggle dark mode">◐</button>
+        <button class="btn-icon menu-toggle" type="button" aria-expanded="false" aria-label="Menu">☰</button>
+      </div>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <div class="page-head two-col" style="align-items:end">
+      <div>
+        <div class="eyebrow"><span lang="en">Publications</span><span lang="es">Publicaciones</span></div>
+        <h1><span lang="en">Publications</span><span lang="es">Publicaciones</span></h1>
+        <p class="lead" id="pub-summary"></p>
+      </div>
+      <div>
+        <div class="muted" style="font-size:.8rem"><span lang="en">Journal articles per year</span><span lang="es">Artículos por año</span></div>
+        <div class="spark" id="pub-spark" aria-hidden="true"></div>
+        <div class="spark-axis" id="pub-spark-axis"></div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input type="search" id="pub-search" data-ph-en="Search title, author, journal or year" data-ph-es="Buscar por título, autor, revista o año" aria-label="Search">
+      <select id="pub-sort" aria-label="Sort">
+        <option value="year" data-en="Newest first" data-es="Más recientes">Newest first</option>
+        <option value="cites" data-en="Most cited" data-es="Más citadas">Most cited</option>
+      </select>
+    </div>
+    <div class="toolbar" style="margin-top:0">
+      <div class="filters" role="group" aria-label="Type">
+        <button type="button" data-type="all" aria-pressed="true"><span lang="en">All</span><span lang="es">Todas</span></button>
+        <button type="button" data-type="article" aria-pressed="false"><span lang="en">Journal articles</span><span lang="es">Artículos</span></button>
+        <button type="button" data-type="conference" aria-pressed="false"><span lang="en">Conferences</span><span lang="es">Congresos</span></button>
+        <button type="button" data-type="preprint" aria-pressed="false">Preprints</button>
+        <button type="button" data-type="thesis" aria-pressed="false"><span lang="en">Theses</span><span lang="es">Tesis</span></button>
+      </div>
+      <span class="count" id="pub-count" aria-live="polite"></span>
+    </div>
+    <div id="pub-list"></div>
+    <p class="source-note" style="margin:32px 0">
+      <span lang="en">The list is generated from Google Scholar, with DOIs from OpenAlex. Spanish and English versions of the same article are shown as one entry.</span>
+      <span lang="es">La lista se genera desde Google Scholar, con los DOI de OpenAlex. Las versiones en español e inglés del mismo artículo aparecen como una sola entrada.</span>
+    </p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>
+        <b style="color:var(--ink)">Edier V. Aristizábal G.</b><br>
+        <span lang="en">Department of Geosciences and Environment, Faculty of Mines</span><span lang="es">Departamento de Geociencias y Medio Ambiente, Facultad de Minas</span><br>
+        Universidad Nacional de Colombia · Cra. 80 No. 65-223, Medellín, Colombia<br>
+        <a href="mailto:evaristizabalg@unal.edu.co">evaristizabalg@unal.edu.co</a>
+      </div>
+      <div>
+        <a href="https://scholar.google.com/citations?hl=en&amp;user=jelk50QAAAAJ">Google Scholar</a> ·
+        <a href="https://www.researchgate.net/profile/Edier-Aristizabal">ResearchGate</a> ·
+        <a href="https://orcid.org/0000-0002-2648-2197">ORCID</a> ·
+        <a href="https://github.com/edieraristizabal">GitHub</a><br>
+        © <span id="year">2026</span> Edier Aristizábal
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
