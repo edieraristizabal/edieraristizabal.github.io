@@ -28,7 +28,7 @@ Sitio web personal de Edier Aristizábal (Profesor Asociado, Departamento de Geo
 | `data/courses.json` | Cursos (nombre, nivel, programa, descripción y enlaces en EN y ES) y recursos docentes |
 | `data/projects.json` | Proyectos (acrónimo, estado `ongoing`/`completed`/`proposal`, años, financiador, rol, título, descripción y enlaces en EN y ES) |
 | `scripts/update_publications.py` | Descarga Google Scholar y OpenAlex y genera `data/publications.json` |
-| `fig/` | Imágenes. `hero_earthflow.jpg` es la foto de portada (versión recortada y comprimida de `Earthflow_Medellin.jpg`); `fotoedier3.jpg` es la foto de perfil |
+| `fig/` | Imágenes. `hero_earthflow.jpg` es la foto de portada (versión recortada y comprimida de `Earthflow_Medellin.jpg`); `edier_2026.jpg` es la foto de perfil (recorte cuadrado de 480×480 px de la foto de 2026); `fotoedier3.jpg` es la foto anterior |
 
 Texto bilingüe en HTML: cada fragmento va en un par `<span lang="en">…</span><span lang="es">…</span>` (o en bloques `<div lang="en">` y `<div lang="es">`); el CSS oculta el idioma que no está activo. El encabezado y el pie se repiten en las cuatro páginas: si se cambia el menú, hay que cambiarlo en todas.
 
@@ -58,7 +58,6 @@ El script lee el perfil de Google Scholar `jelk50QAAAAJ` (ordenado por fecha, en
 
 ## Pendientes y sugerencias
 
-- Foto de perfil nueva y de mayor resolución (la actual es de 294×366 px).
 - Confirmar los años de la especialización en Ginebra y del pregrado, que no aparecen en la sección de formación.
 - Cuando el curso Avenidas Torrenciales tenga página publicada (https://edieraristizabal.github.io/AvenidasTorrenciales/ hoy da 404), agregar el enlace `site` en `data/courses.json`.
 - Actualizar el estado de SAT-CASCADE cuando se conozca el resultado de la convocatoria, y las fechas de SUNRISE cuando se firme el acuerdo de subvención.
@@ -66,3 +65,4 @@ El script lee el perfil de Google Scholar `jelk50QAAAAJ` (ordenado por fecha, en
 ## Registro de cambios
 
 - **2026-10-24**: rediseño completo. Se reemplaza el sitio de 2021 (Bootstrap 3, dos páginas) por un sitio estático bilingüe con portada, publicaciones, proyectos y cursos; los datos quedan en `data/*.json` y las publicaciones se generan con `scripts/update_publications.py` (171 entradas de Scholar → 100 únicas: 73 artículos, 23 congresos, 2 preprints, 2 tesis; 2273 citas, h 24, i10 52). Se corrige el enlace a Google Scholar (antes apuntaba al perfil `LbieiBQAAAAJ`) y el cargo (de Assistant a Associate Professor). `aboutme.html` pasa a ser una redirección; se elimina `styles.css`; se agrega `fig/hero_earthflow.jpg`; `.gitignore` ignora `*.log` y `__pycache__/`.
+- **2026-10-24**: nueva foto de perfil (`fig/edier_2026.jpg`, recortada a 480×480 px de la foto de 2026 que envió Edier); se quita el filtro gris del retrato en `site.css` y se agrega la foto a los datos estructurados de `index.html`.

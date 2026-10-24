@@ -75,7 +75,7 @@ section { padding: 56px 0; }
 .hero { position: relative; color: #fff; background: #1d2622 url("../../fig/hero_earthflow.jpg") center 40% / cover no-repeat; }
 .hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(100deg, rgba(14,22,18,.92) 0%, rgba(14,22,18,.78) 45%, rgba(14,22,18,.35) 100%); }
 .hero .wrap { position: relative; display: grid; grid-template-columns: auto 1fr; gap: 32px; align-items: center; padding-top: 72px; padding-bottom: 72px; }
-.hero img.portrait { width: 168px; height: 168px; object-fit: cover; border-radius: 50%; border: 3px solid rgba(255,255,255,.85); filter: grayscale(.2); }
+.hero img.portrait { width: 168px; height: 168px; object-fit: cover; border-radius: 50%; border: 3px solid rgba(255,255,255,.85); }
 .hero h1 { margin-bottom: .2em; }
 .hero .role { font-size: 1.1rem; opacity: .92; margin-bottom: 1.2em; }
 .hero .eyebrow { color: #f1b393; }
